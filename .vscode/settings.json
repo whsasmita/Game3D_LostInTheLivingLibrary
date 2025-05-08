@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Lost In The Living Library.sln"
+    "dotnet.defaultSolution": "Game3D_LostInTheLivingLibrary.sln"
 }
